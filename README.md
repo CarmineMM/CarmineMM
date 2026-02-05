@@ -31,7 +31,7 @@ I'm passionate about clean architecture, cloud automation, and constant growth.
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### Cloud & DevOps
-![Rigels.oi](https://img.shields.io/badge/RIGELS-0e1c40?style=for-the-badge&logo=data:image/svg%20xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MTIuNjIgNTM1Ij48ZGVmcz48c3R5bGU%20LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM%20PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMzAyLjk0IDM0My4wN0w0MTIuNjIgNTM1SDMxMC4zTDE1NS4xNSAyNjYuODNsNzkuNTguNjdRMjcwLjg1IDI2Ny41IDMwMi40NSAyMzUuNDJjMTguMDgtMTcuNDMgMjYuNzUtMzguNzkgMjYuNzUtNjMuNTMgMC0yNC4wOC04LjctNDQuODEtMjYuNzUtNjIuMlEyNzYuMzggODMuNjEgMjQwLjI2IDgzLjYxSDU2LjE3TDAgMGgyMzQuNzNjNDguODIgMCA5MSAxNy4zOSAxMjUuNzIgNTIuMTYgMzQuNzggMzUuNDUgNTIuMTcgNzYuOTEgNTIuMTcgMTI1LjczIDAgMzcuNDUtMTAgNzAuODgtMzEuNDMgMTAxYTE5Ny45IDE5Ny45IDAgMCAxLTY4LjUyIDY0LjE4eiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIwIDM0MS43MiAwIDUzNSA5Ni45IDUzNSAwIDM0MS43MiIvPjwvc3ZnPg==&logoColor=white)
+[![Rigels.oi](https://img.shields.io/badge/RIGELS-0e1c40?style=for-the-badge&logo=data:image/svg%20xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MTIuNjIgNTM1Ij48ZGVmcz48c3R5bGU%20LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM%20PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMzAyLjk0IDM0My4wN0w0MTIuNjIgNTM1SDMxMC4zTDE1NS4xNSAyNjYuODNsNzkuNTguNjdRMjcwLjg1IDI2Ny41IDMwMi40NSAyMzUuNDJjMTguMDgtMTcuNDMgMjYuNzUtMzguNzkgMjYuNzUtNjMuNTMgMC0yNC4wOC04LjctNDQuODEtMjYuNzUtNjIuMlEyNzYuMzggODMuNjEgMjQwLjI2IDgzLjYxSDU2LjE3TDAgMGgyMzQuNzNjNDguODIgMCA5MSAxNy4zOSAxMjUuNzIgNTIuMTYgMzQuNzggMzUuNDUgNTIuMTcgNzYuOTEgNTIuMTcgMTI1LjczIDAgMzcuNDUtMTAgNzAuODgtMzEuNDMgMTAxYTE5Ny45IDE5Ny45IDAgMCAxLTY4LjUyIDY0LjE4eiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIwIDM0MS43MiAwIDUzNSA5Ni45IDUzNSAwIDM0MS43MiIvPjwvc3ZnPg==&logoColor=white)](https://rigels.io)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,7 +63,7 @@ I'm passionate about clean architecture, cloud automation, and constant growth.
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmine-maggio-157787144/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/carmine-maggio-157787144/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://carmine.rigels.io)
 [![Email](https://img.shields.io/badge/Email-2D3748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carminemaggiom@gmail.com)
 
 ---
